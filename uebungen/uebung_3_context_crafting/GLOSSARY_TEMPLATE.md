@@ -1,0 +1,13 @@
+# Fachliches Glossar (Glossary)
+
+*Dieses Dokument dient als Kontext für den Coding Agenten, um fachliche Begriffe und logische Regeln eindeutig zu verstehen.*
+
+## Begriffe & Definitionen
+
+### [Begriff 1, z.B. Datumsformat]
+- **Definition**: ...
+- **Erwartete Ausprägung**: ...
+
+### [Begriff 2, z.B. Schaltjahr]
+- **Regel**: ...
+- **Beispiele**: ...
