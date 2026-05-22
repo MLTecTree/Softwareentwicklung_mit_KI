@@ -13,7 +13,7 @@ This repository includes pre-configured AI skills designed for learning and guid
 ### 1. Test-Driven Development (TDD)
 When asked for **TDD**, **test-driven development**, or **/tdd**:
 - Strictly follow the vertical-slice methodology.
-- Prioritize integration-style testing of observable behavior.
+- Prioritize integration-style testing of observable behavior (JUnit 5).
 - Refer to and apply the instructions in:
   - [docs/skills/tdd/SKILL.md](docs/skills/tdd/SKILL.md)
   - [docs/skills/tdd/tests.md](docs/skills/tdd/tests.md)
