@@ -21,7 +21,7 @@
       "name": "kiconnectnrw:rwth",
       "options": {
         "baseURL": "https://chat.kiconnect.nrw/api/v1",
-        "apiKey": "__PERSONAL_KICONNECT_API_KEY_FHAACHEN__",
+        "apiKey": "__PERSONAL_KICONNECT_API_KEY_RWTH__",
       },
       "models": {
         "rwth/gpt-oss-120b": {

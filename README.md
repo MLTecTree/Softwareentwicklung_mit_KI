@@ -54,6 +54,24 @@ Wir arbeiten im Terminal mit **OpenCode**, einem extrem leistungsfähigen Open-S
 
 ---
 
+## API-Schlüssel für KI:connect / RWTHgpt
+
+OpenCode verwendet in diesem Template den Anbieter `kiconnectnrw:rwth` bzw. `kiconnectnrw:fhaachen` aus `./.opencode/opencode.jsonc`. Dafür brauchen Teilnehmende einen persönlichen API-Schlüssel von KI:connect / RWTHgpt.
+
+Die offizielle Anleitung findest du hier:
+
+- [API-Keys und Zugriff (RWTHgpt / KI:connect)](https://help.itc.rwth-aachen.de/service/1808737e10424937b76e564ed15d8028/article/4f07ebbbc8c4477a8db9baa441494941/)
+
+Kurzfassung der Schritte:
+
+1. Mit RWTH Single Sign-On an der [KI:connect-Weboberfläche](https://chat.kiconnect.nrw/) anmelden.
+2. Links unten den eigenen Namen auswählen.
+3. Die **API-Schlüsselverwaltung** öffnen.
+4. Einen **Schlüssel erstellen** und den persönlichen API-Schlüssel anlegen.
+5. Den Platzhalter `__PERSONAL_API_KEY__` in `./.opencode/opencode.jsonc` mit dem eigenen Schlüssel ersetzen.
+
+Der Schlüssel ist vertraulich zu behandeln und darf nicht ins Repository eingecheckt werden.
+
 ## 📂 Die Praxis-Übungen (Workshop-Verzeichnisse)
 
 Hier findest du die vorbereiteten Verzeichnisse und Aufgabenstellungen für alle Übungseinheiten:
